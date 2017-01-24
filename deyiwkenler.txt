@@ -1,0 +1,14 @@
+deyiwkenken istifade edilmeden evvel tanimlanmalidirlar.deyiwkenlerden istifade edilende adlanmalidirlar,adlandirildiqda arada bowlug qoymaq olmaz,onun yerine altdan (_) tre ile bitlewdirilir.Misal string ad_soyad;
+deyiwkenler boyuk balaca herlere hessasdir
+string ad;
+string Ad; 
+           eyni deyil.Ferqli menalar verirler,deyiwken adlarinda ancag ingilis dilinden istifade edilmelidir,deyiwken adlarinda ozel iwarelerden istifade etmek olmaz misal string ?% vs .
+Deyiwkenler adlarinda esasen kiciik herlerden istifade edilir ve ozel adlardanda istifade etmek olmaz misal: string if,string random vs
+encox istifade edilenler 
+1string tipidi 
+2)int 
+3)float
+4)double
+5)char
+6)bool
+bunlarida bir birine cevirmke mumkundur.her hansi texbox int tipine cevirmek olar misal int a = convert.Toint32(texbox1.Tex);
